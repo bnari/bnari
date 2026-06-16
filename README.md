@@ -1,4 +1,4 @@
-<h1> align="center">Hi, I'm Rohith Narisetty 👋</h1>
+<h1 align="center">Hi, I'm Rohith Narisetty 👋</h1>
 
 <p align="center">
   <b>Data Analyst</b> &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Python &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Snowflake<br>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:rohith.it1108@gmail.com">📧 rohith.it1108@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/rohithn1108">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">🔗 LinkedIn</a> &nbsp;|&nbsp;
   📍 Tampa, FL
 </p>
 
