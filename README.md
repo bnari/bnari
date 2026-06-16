@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Rohith Narisetty 👋</h1>
+<h1> align="center">Hi, I'm Rohith Narisetty 👋</h1>
 
 <p align="center">
   <b>Data Analyst</b> &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Python &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Snowflake<br>
